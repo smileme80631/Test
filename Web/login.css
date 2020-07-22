@@ -1,0 +1,34 @@
+﻿body {
+    font-family: 'Microsoft JhengHei',Arial;
+}
+
+#form1 {
+    background-image: url(img/圖片1.png);
+    height: 1200px;
+    /*background-size: cover;*/
+}
+
+#login {
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    width: 50%;
+    border: 2px #000 solid;
+    background-color: #ffffff;
+    border-radius: 15px;
+    /*padding-top: 200px;*/
+    position: relative;
+    top: 15%;
+    /*貼這裡*/
+    box-shadow: 4px 4px 12px 3px rgba(20%,20%,40%,0.5);
+    
+}
+
+.auto-style1 {
+    font-size: xx-large;
+}
+.auto-style2 {
+    font-size: 70px;
+    color: #003296;
+    font-family: 微軟正黑體;
+}

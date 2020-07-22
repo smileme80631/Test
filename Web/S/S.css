@@ -1,0 +1,26 @@
+﻿body {
+    /*body 字體只要改這邊 整個頁面的字體都會改到*/
+    font-family: 'Microsoft JhengHei',Arial;
+}
+
+#form1 {
+    height: 1200px;
+}
+
+#bimg1 {
+    float: left;
+    width: 20%;
+    height: 1200px;
+}
+
+#bimg2 {
+    background: url(../img/圖片1.png);
+    float: right;
+    width: 80%;
+    height: 1200px;
+}
+
+#right {
+    float: right;
+    padding-right: 20px;
+}
