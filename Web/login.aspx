@@ -40,7 +40,7 @@
             }
             else
             {
-                lbl_Message.Text = "帳號或密碼錯誤喔";
+                lbl_Message.Text = "帳號或密碼錯誤喔！！";
             }
             reader.Close();
             conn.Close();
